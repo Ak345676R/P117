@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(163, 163, 4);
+}
+#score_span {
+    font-size:10px;
+    margin-left:20px;
+}
+#time_span {
+    font-size:10px;
+    float:right;
+    margin-right: 20px;
+}
+#paragraph_draw {
+    color: red;
+}
